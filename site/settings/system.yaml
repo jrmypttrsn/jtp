@@ -1,0 +1,8 @@
+app_key: Z2A50HGIM4F7c8KWiRlBMW2vDGyV3iXb
+yaml_parser: symfony
+locales:
+  en:
+    full: en_US
+    name: English
+    url: 'http://jtp.test/'
+timezone: America/Chicago
